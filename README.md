@@ -1,4 +1,4 @@
-# 📊 Campaign Performance Analysis – SQL Project
+# 📊 Campaign Performance Analysis – SQL Case Study
 
 ## Overview  
 This project was created as a marketing data case study using a fictional dataset from Kaggle. The goal was to answer key business questions using SQL views and deliver strategic, data-backed insights for campaign optimization.
